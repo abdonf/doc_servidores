@@ -1,5 +1,5 @@
 #Administracion de servidores
-* [Particionamiento HD] (particionamiento.md
+* [Particionamiento HD] (particionamiento.md)
 * [Virtualizacion] (virtualizacion.md)
 
 
